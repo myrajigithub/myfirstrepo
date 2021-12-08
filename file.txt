@@ -1,2 +1,5 @@
 THis is my first commit
 my name is Raji
+
+This is my tuesday lecture 7/12/2021
+this is my 2nd commit
